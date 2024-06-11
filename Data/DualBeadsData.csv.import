@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b6htgj65n5ubt"
+
+[deps]
+
+files=["res://SMLM/Data/DualBeadsData.x [nm].translation", "res://SMLM/Data/DualBeadsData.y [nm].translation", "res://SMLM/Data/DualBeadsData.intensity [photon].translation"]
+
+source_file="res://SMLM/Data/DualBeadsData.csv"
+dest_files=["res://SMLM/Data/DualBeadsData.x [nm].translation", "res://SMLM/Data/DualBeadsData.y [nm].translation", "res://SMLM/Data/DualBeadsData.intensity [photon].translation"]
+
+[params]
+
+compress=true
+delimiter=0

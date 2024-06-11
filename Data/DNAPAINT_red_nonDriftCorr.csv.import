@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dhow4y7sci4su"
+
+[deps]
+
+files=["res://SMLM/Data/DNAPAINT_red_nonDriftCorr.x [nm].translation", "res://SMLM/Data/DNAPAINT_red_nonDriftCorr.y [nm].translation", "res://SMLM/Data/DNAPAINT_red_nonDriftCorr.intensity [photon].translation"]
+
+source_file="res://SMLM/Data/DNAPAINT_red_nonDriftCorr.csv"
+dest_files=["res://SMLM/Data/DNAPAINT_red_nonDriftCorr.x [nm].translation", "res://SMLM/Data/DNAPAINT_red_nonDriftCorr.y [nm].translation", "res://SMLM/Data/DNAPAINT_red_nonDriftCorr.intensity [photon].translation"]
+
+[params]
+
+compress=true
+delimiter=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://yp4372ll66rb"
+
+[deps]
+
+files=["res://SMLM/Data/ChromAbbRedPoints_forTransform.7055.705882.translation"]
+
+source_file="res://SMLM/Data/ChromAbbRedPoints_forTransform.csv"
+dest_files=["res://SMLM/Data/ChromAbbRedPoints_forTransform.7055.705882.translation"]
+
+[params]
+
+compress=true
+delimiter=0
